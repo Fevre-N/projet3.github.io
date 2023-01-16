@@ -1344,7 +1344,7 @@ input, select, textarea {
 			list-style: none;
 			padding-left: 0;
 			border: solid 1px #ffffff;
-			border-radius: 10px;
+			border-radius: 1px;
 		}
 
 			#header nav ul li {

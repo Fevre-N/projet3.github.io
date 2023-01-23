@@ -704,12 +704,13 @@ input, select, textarea {
 			}
 		.image.logo{
 			display: block;
-			margin: auto;
+			margin: 2.5rem 0;
 			width: 100%;
 
 		}
 			.image.logo img{
-				width:50%
+				width:50%;
+				margin : auto;
 				
 			}
 
